@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning HTML,CSS and JavaScript
 - 💞️ I’m looking to collaborate on open source project
-- 📫 You can reach me on Twitter @whunmiebanks
+- 📫 You can reach me on Twitter @WhunmieBanks
 
 <!---
 Whumiebanks/Whumiebanks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
