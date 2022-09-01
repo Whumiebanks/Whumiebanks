@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Whumiebanks
-- 👀 I’m interested in Frontend Development
+- 👀 I’m interested in Frontend Development/ Data Science 
 - 🌱 I’m currently learning HTML,CSS and JavaScript
 - 💞️ I’m looking to collaborate on open source project
 - 📫 You can reach me on Twitter @WhunmieBanks
